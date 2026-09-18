@@ -46,7 +46,7 @@ Here are some of the most notable projects I have completed or am currently work
 ## 📫 Connect with Me
 
 - 📧 **Email:** [juliendps0@gmail.com](mailto:juliendps0@gmail.com)
-- 💼 **LinkedIn:** *[https://www.linkedin.com/in/julien-dupuis]https://www.linkedin.com/in/julien-dupuis-944843243/*
+- 💼 **LinkedIn:** *[LinkedIn](https://www.linkedin.com/in/julien-dupuis-944843243/)*
 - 🌐 **Location:** France
 
 ---
